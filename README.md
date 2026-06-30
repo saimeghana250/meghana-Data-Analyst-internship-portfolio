@@ -36,6 +36,7 @@ Validated the relationship between customer income and spending behavior
 Developed data-driven business recommendations
 
 Project Repositories
+
 Task 1 – Data Immersion & Wrangling
 [https://github.com/saimeghana250/data-immersion-.git]
 
@@ -82,5 +83,5 @@ This internship provided hands-on experience in solving real-world business prob
 The project also enhanced my ability to combine technical analysis with business thinking to generate actionable recommendations.
 
 
-#Conclusion
+Conclusion
 This portfolio represents my journey in developing practical data analytics skills and demonstrates my ability to deliver complete end-to-end analytics solutions using industry-standard tools and methodologies.
