@@ -1,15 +1,15 @@
 # meghana-Data-Analyst-internship-portfolio
-#Overview
+Overview
 
 This portfolio showcases the successful completion of an end-to-end Data Analyst Internship project focused on Customer Segmentation &amp; Marketing Analytics.
 
 The project covers the complete analytics lifecycle, from data cleaning and preprocessing to exploratory data analysis, interactive dashboard development, data storytelling, and statistical validation. The objective was to transform raw customer data into actionable business insights that support data-driven decision-making.
 
-#Dashboard Preview
+Dashboard Preview
 
 <img width="4800" height="3300" alt="apexplanet_executive_dashboard" src="https://github.com/user-attachments/assets/d6434e1a-2e55-4e2a-9f12-f73cdb3c63cb" />
 
-#Internship Roadmap
+Internship Roadmap
 
 Task 1 – Data Immersion & Wrangling
 Cleaned and preprocessed raw customer data
@@ -35,7 +35,7 @@ Performed hypothesis testing using an Independent T-Test
 Validated the relationship between customer income and spending behavior
 Developed data-driven business recommendations
 
-#Project Repositories
+Project Repositories
 Task 1 – Data Immersion & Wrangling
 [https://github.com/saimeghana250/data-immersion-.git]
 
@@ -48,7 +48,7 @@ Task 3 – Deep-Dive Analysis & Interactive Dashboarding
 Task 4 – Data Storytelling & Statistical Validation
 [https://github.com/saimeghana250/data-story-telling.git]
 
-#Tools & Technologies Used
+Tools & Technologies Used
 
 Python
 Pandas,
@@ -62,7 +62,7 @@ Canva,
 GitHub,
 
 
-#Key Skills Demonstrated
+Key Skills Demonstrated
 
 Data Cleaning & Preprocessing,
 Exploratory Data Analysis,
@@ -76,7 +76,7 @@ Data Storytelling,
 Stakeholder Communication,
 GitHub Documentation,
 
-#Key Learnings
+Key Learnings
 
 This internship provided hands-on experience in solving real-world business problems using data analytics techniques. It strengthened my understanding of the complete analytics workflow, from preparing raw data to communicating insights through dashboards, presentations, and statistical validation.
 The project also enhanced my ability to combine technical analysis with business thinking to generate actionable recommendations.
