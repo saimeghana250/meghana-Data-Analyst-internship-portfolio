@@ -1,0 +1,33 @@
+=================================================================
+   APEXPLANET TASK 4 — HYPOTHESIS TESTING SUMMARY
+=================================================================
+
+TEST 1: INDEPENDENT SAMPLES T-TEST
+---------------------------------------------
+Hypothesis : Male customers spend significantly more per order than
+             female customers.
+Male Mean  : ₹141,807.34  (n=511)
+Female Mean: ₹136,883.21  (n=489)
+T-Statistic: 0.6826
+P-Value    : 0.4950
+95% CI Diff: [₹-9,214.68, ₹19,062.94]
+Conclusion : FAIL TO REJECT H0 (p=0.4950 ≥ 0.05). There is NO statistically significant difference in average order value between Male and Female customers.
+
+TEST 2: CHI-SQUARED TEST OF INDEPENDENCE
+---------------------------------------------
+Hypothesis : Product category preference is independent of gender.
+Chi2 Stat  : 9.0936
+Degrees of Freedom: 4
+P-Value    : 0.0588
+Conclusion : FAIL TO REJECT H0 (p=0.0588 ≥ 0.05). Category preference is NOT significantly associated with Gender. Both genders shop similarly across categories.
+
+TEST 3: ONE-WAY ANOVA
+---------------------------------------------
+Hypothesis : Mean order value differs across product categories.
+F-Statistic: 0.7171
+P-Value    : 0.5803
+Conclusion : FAIL TO REJECT H0 (p=0.5803 ≥ 0.05). No significant difference in average order values across categories.
+
+=================================================================
+Alpha (significance level) used: 0.05
+=================================================================
